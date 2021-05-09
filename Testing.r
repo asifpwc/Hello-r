@@ -1,2 +1,7 @@
 #print command
-Print("Hello from git")
+print("Hello from git")
+name = "Asif"
+version = "Rstudio version 1"
+print(name)
+print(version)
+
